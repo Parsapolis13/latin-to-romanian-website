@@ -37,6 +37,8 @@ nav {
     background-color: var(--bg);
     border-bottom: 1px solid var(--rust);
     padding: 1rem 3rem;
+    display: flex;
+    justify-content: space-around;
 }
 
 nav a {
